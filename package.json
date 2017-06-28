@@ -1,0 +1,7 @@
+{
+  "name": "amcharts3-tools",
+  "version": "1.2.0",
+  "description": "This repository is meant to house miscelaneous amCharts-related plugins and tools that are small and do not warrant their individual repositories.",
+  "repository": "git@github.com:franktopel/amcharts-tools.git",
+  "license": "Apache-2.0"
+}
